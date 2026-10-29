@@ -1,0 +1,10 @@
+D:\VideoGame\Game\Game\bin\Debug\Game.exe.config
+D:\VideoGame\Game\Game\bin\Debug\Game.exe
+D:\VideoGame\Game\Game\bin\Debug\Game.pdb
+D:\VideoGame\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\VideoGame\Game\Game\obj\Debug\Game.Form1.resources
+D:\VideoGame\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\VideoGame\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\VideoGame\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\VideoGame\Game\Game\obj\Debug\Game.exe
+D:\VideoGame\Game\Game\obj\Debug\Game.pdb
